@@ -33,3 +33,4 @@ Este projeto é um sistema de cadastro de usuários que permite criar, visualiza
 - **Consumo de API:** O frontend realiza requisições ao backend para persistir os dados no banco de dados.
 
 ---
+
