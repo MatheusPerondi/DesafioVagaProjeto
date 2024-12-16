@@ -1,6 +1,6 @@
 # Sistema de Cadastro de Usuários
 
-Este projeto é um sistema de cadastro de usuários que permite criar, visualizar e gerenciar informações de usuários. Ele foi desenvolvido com foco em boas práticas de desenvolvimento e separação de responsabilidades entre frontend e backend.
+Este projeto é um sistema de cadastro de usuários que permite criar, visualizar e gerenciar informações de usuários. 
 
 ---
 
