@@ -11,11 +11,16 @@ Este projeto é um sistema de cadastro de usuários que permite criar, visualiza
 - **[Styled Components](https://styled-components.com/):** Biblioteca para estilização de componentes utilizando CSS-in-JS.
 - **[Axios](https://axios-http.com/):** Cliente HTTP para realizar requisições ao backend.
 
-### Backend
-- **[Java](https://www.java.com/):** Linguagem de programação utilizada no backend.
-- **[Spring Boot](https://spring.io/projects/spring-boot):** Framework para desenvolvimento de aplicações Java robustas e escaláveis.
-- **[Spring Data JPA](https://spring.io/projects/spring-data-jpa):** Abstração de persistência para facilitar o acesso ao banco de dados.
-- **[MySQL](https://www.mysql.com/):** Banco de dados relacional utilizado no projeto.
+
+### Backend  
+- **Spring Boot**: Framework Java para desenvolvimento do backend.  
+- **Dependências Principais**:   
+  - **Spring Boot Starter Web**: Configurações básicas para APIs RESTful.  
+  - **Spring Boot Starter Data JPA**: Abstração para acesso ao banco de dados com suporte ao padrão JPA.  
+  - **Flyway**: Controle e versionamento de migrations para o banco de dados.  
+  - **MySQL Connector**: Driver JDBC para conectar ao banco de dados MySQL.  
+  - **Lombok**: Reduz a verbosidade no código Java ao gerar automaticamente getters, setters e outros métodos comuns.  
+  - **Spring Boot Starter Validation**: Suporte a validação de entradas com anotações como `@NotNull`, `@Size`, etc.    
 
 ---
 
